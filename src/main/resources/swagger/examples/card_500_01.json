@@ -1,0 +1,12 @@
+{
+  "message": "Card Service Error",
+  "code": "CARD_SERVICE_ERROR",
+  "description": "Card Service Error",
+  "args": [
+    {
+      "arg": "REASON",
+      "value": "Failed to connect to localhost/0:0:0:0:0:0:0:1:9008"
+    }
+  ],
+  "status": "500 INTERNAL_SERVER_ERROR"
+}

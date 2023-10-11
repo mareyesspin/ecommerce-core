@@ -1,0 +1,7 @@
+{
+  "message": "Cannot add possible blacklisted block to an account that already has an AML COMPLIANCE block",
+  "code": "CANNOT_ADD_POSSIBLE_BLACKLISTED_BLOCK",
+  "description": "Cannot add possible blacklisted block to an account that already has an AML COMPLIANCE block",
+  "args": [],
+  "status": "400 BAD REQUEST"
+}

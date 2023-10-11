@@ -1,0 +1,12 @@
+{
+  "message": "The PIN has been blocked",
+  "code": "PIN_BLOCKED",
+  "description": "The PIN has been blocked",
+  "args": [
+    {
+      "arg": "SENDER_NAME",
+      "value": "Karina M."
+    }
+  ],
+  "status": "400 BAD_REQUEST"
+}

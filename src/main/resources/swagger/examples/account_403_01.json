@@ -1,0 +1,7 @@
+{
+  "message": "Source service not allowed to use block/unblock code",
+  "code": "SOURCE_SERVICE_FORBIDDEN_BLOCK_CODE",
+  "description": "Source service not allowed to use block/unblock code",
+  "args": [],
+  "status": "403 FORBIDDEN"
+}

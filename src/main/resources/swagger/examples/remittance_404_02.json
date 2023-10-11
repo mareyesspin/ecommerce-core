@@ -1,0 +1,7 @@
+{
+  "message": "No QR request found",
+  "code": "QR_WITHDRAWAL_REQUEST_NOT_FOUND",
+  "description": "No QR request found",
+  "args": [],
+  "status": "404 NOT_FOUND"
+}

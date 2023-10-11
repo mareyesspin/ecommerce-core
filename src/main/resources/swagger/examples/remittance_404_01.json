@@ -1,0 +1,12 @@
+{
+  "message": "Remittance not found",
+  "code": "REMITTANCE_NOT_FOUND",
+  "description": "Remittance not found",
+  "args": [
+    {
+      "arg": "UUID",
+      "value": "6283fee0-e4ec-9f2d-3eae-b6ca40640905"
+    }
+  ],
+  "status": "404 NOT_FOUND"
+}

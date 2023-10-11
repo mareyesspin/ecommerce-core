@@ -1,0 +1,12 @@
+{
+  "message": "The PIN is still valid",
+  "code": "PIN_STILL_VALID",
+  "description": "The PIN is still valid",
+  "args": [
+    {
+      "arg": "SENDER_NAME",
+      "value": "Karina M."
+    }
+  ],
+  "status": "400 BAD_REQUEST"
+}

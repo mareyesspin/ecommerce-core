@@ -1,0 +1,7 @@
+{
+  "message": "User is not authorized to execute the requested action",
+  "code": "UNAUTHORIZED_TO_PEFORM_ACTION",
+  "description": "User is not authorized to execute the requested action",
+  "args": [],
+  "status": "400 BAD REQUEST"
+}

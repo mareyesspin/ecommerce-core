@@ -1,0 +1,7 @@
+{
+  "message": "Permanent block codes cannot be removed",
+  "code": "CANNOT_REMOVE_PERMANENT_BLOCK_CODE",
+  "description": "Permanent block codes cannot be removed",
+  "args": [],
+  "status": "400 BAD REQUEST"
+}

@@ -1,0 +1,7 @@
+{
+  "message": "The process to remove block code from the account failed",
+  "code": "ACCOUNT_UNBLOCKING_FAILED",
+  "description": "The process to remove block code from the account failed",
+  "args": [],
+  "status": "500 INTERNAL_SERVER_ERROR"
+}

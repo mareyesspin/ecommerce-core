@@ -1,0 +1,16 @@
+{
+  "message": "Max amount to withdraw at OXXO has been exceeded.",
+  "code": "MAX_QR_CASHOUT_AMOUNT_EXCEEDED",
+  "description": "Max amount to withdraw at OXXO has been exceeded.",
+  "args": [
+    {
+      "arg": "MAX_WITHDRAWAL_AMOUNT",
+      "value": "100000"
+    },
+    {
+      "arg": "AMOUNT",
+      "value": "100001"
+    }
+  ],
+  "status": "400 BAD_REQUEST"
+}

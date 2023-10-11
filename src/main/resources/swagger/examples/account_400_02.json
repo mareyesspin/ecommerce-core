@@ -1,0 +1,7 @@
+{
+  "message": "Cannot add the requested block code to an user without an account.",
+  "code": "USER_WITHOUT_AN_ACCOUNT",
+  "description": "Cannot add the requested block code to an user without an account.",
+  "args": [],
+  "status": "400 BAD REQUEST"
+}

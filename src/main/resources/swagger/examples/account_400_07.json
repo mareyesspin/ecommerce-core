@@ -1,0 +1,7 @@
+{
+  "message": "The account does not have the requested block code.",
+  "code": "BLOCK_CODE_NOT_PRESENT_IN_ACCOUNT",
+  "description": "The account does not have the requested block code.",
+  "args": [],
+  "status": "400 BAD REQUEST"
+}

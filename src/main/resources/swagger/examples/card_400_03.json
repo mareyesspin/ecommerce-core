@@ -1,0 +1,7 @@
+{
+  "message": "Card Unblocked",
+  "code": "CARD_UNBLOCKED",
+  "description": "Card Unblocked",
+  "args": [],
+  "status": "400 BAD REQUEST"
+}

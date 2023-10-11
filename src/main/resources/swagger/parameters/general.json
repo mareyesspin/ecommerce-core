@@ -1,0 +1,14 @@
+[
+  {
+    "name": "uuid",
+    "in": "PATH",
+    "description": "remittance identifier",
+    "example": "6283fee0-e4ec-9f2d-3eae-b6ca40640905"
+  },
+  {
+    "name": "cr",
+    "in": "PATH",
+    "description": "cr belonging to QR code",
+    "example": "1011900327001208"
+  }
+]

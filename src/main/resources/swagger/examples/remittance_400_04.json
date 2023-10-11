@@ -1,0 +1,16 @@
+{
+  "message": "Withdrawal Cancelled",
+  "code": "WITHDRAWAL_CANCELLED",
+  "description": "Withdrawal Cancelled",
+  "args": [
+    {
+      "arg": "PHONE_NUMBER",
+      "value": "+523317893811"
+    },
+    {
+      "arg": "SENDER_NAME",
+      "value": "Karina M."
+    }
+  ],
+  "status": "400 BAD_REQUEST"
+}

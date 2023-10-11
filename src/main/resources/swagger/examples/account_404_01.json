@@ -1,0 +1,7 @@
+{
+  "message": "User was not found",
+  "code": "USER_NOT_FOUND",
+  "description": "User was not found",
+  "args": [],
+  "status": "404 NOT_FOUND"
+}

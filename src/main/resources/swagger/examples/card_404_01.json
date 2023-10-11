@@ -1,0 +1,12 @@
+{
+  "message": "Card not found",
+  "code": "CARD_NOT_FOUND",
+  "description": "Card not found",
+  "args": [
+    {
+      "arg": "USER_ID",
+      "value": "a5fd1d90-8fbf-4d60-a7fb-130ca2530737"
+    }
+  ],
+  "status": "404 NOT_FOUND"
+}

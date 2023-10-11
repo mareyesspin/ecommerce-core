@@ -1,0 +1,7 @@
+{
+  "message": "Invalid CR",
+  "code": "GENERIC_ERROR",
+  "description": "Generic error",
+  "args": [],
+  "status": "404 NOT_FOUND"
+}

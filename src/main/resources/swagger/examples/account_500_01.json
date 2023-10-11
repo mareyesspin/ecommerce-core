@@ -1,0 +1,12 @@
+{
+  "message": "Account service API is unavailable",
+  "code": "ACCOUNT_SERVICE_API_UNAVAILABLE",
+  "description": "Account service API is unavailable",
+  "args": [
+    {
+      "arg": "REASON",
+      "value": "Failed to connect to localhost/0:0:0:0:0:0:0:1:9008"
+    }
+  ],
+  "status": "500 INTERNAL_SERVER_ERROR"
+}

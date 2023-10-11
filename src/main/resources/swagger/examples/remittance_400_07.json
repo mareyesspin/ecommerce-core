@@ -1,0 +1,20 @@
+{
+  "message": "PIN Verification failed",
+  "code": "PIN_VERIFICATION_FAILED",
+  "description": "PIN Verification failed",
+  "args": [
+    {
+      "arg": "PIN",
+      "value": "1234"
+    },
+    {
+      "arg": "PIN_ATTEMPTS_LEFT",
+      "value": "2"
+    },
+    {
+      "arg": "SENDER_NAME",
+      "value": "Karina M."
+    }
+  ],
+  "status": "400 BAD_REQUEST"
+}

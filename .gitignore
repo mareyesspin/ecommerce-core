@@ -1,0 +1,60 @@
+HELP.md
+.gradle
+build/
+*/build/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+!gradle/dependencies.gradle
+!**/src/main/**
+!**/src/test/**
+**/src/main/generated/
+**/src/main/groovy/generated/**
+.mvn
+mvnw
+mvnw.cmd
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+
+
+### VS Code ###
+.vscode/
+.history/
+
+bin
+/.project
+
+.DS_Store
+
+### STS ###
+.metadata
+.plugins
+
+**/.terraform/**
+**/terraform.tfstate*
+/**/application-native.yml
+/**/application-prod.yml
+
+# Node directories
+node_modules
+
+# gradle
+
+/**/caches/**
+/**/daemon/**
+/**/native/**
+

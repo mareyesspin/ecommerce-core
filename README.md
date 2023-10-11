@@ -1,1 +1,1 @@
-# ecommerce-core 1.0.2
+# ecommerce-core 1.0.3

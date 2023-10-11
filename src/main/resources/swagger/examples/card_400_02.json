@@ -1,0 +1,7 @@
+{
+  "message": "Account has active card",
+  "code": "ACCOUNT_HAS_ACTIVE_CARD",
+  "description": "Account has active card",
+  "args": [],
+  "status": "400 BAD REQUEST"
+}

@@ -1,0 +1,7 @@
+{
+  "message": "The new PIN is equal to current PIN",
+  "code": "NEW_PIN_IS_EQUAL_TO_CURRENT_PIN",
+  "description": "The new PIN is equal to current PIN",
+  "args": [],
+  "status": "400 BAD REQUEST"
+}

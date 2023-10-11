@@ -1,0 +1,16 @@
+{
+  "message": "Phone Verification failed",
+  "code": "PHONE_VERIFICATION_FAILED",
+  "description": "Phone Verification failed",
+  "args": [
+    {
+      "arg": "PHONE_ATTEMPTS_LEFT",
+      "value": "2"
+    },
+    {
+      "arg": "SENDER_NAME",
+      "value": "Karina M."
+    }
+  ],
+  "status": "400 BAD_REQUEST"
+}

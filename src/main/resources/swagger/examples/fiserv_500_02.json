@@ -1,0 +1,7 @@
+{
+  "message": "Call to Fiserv API failed, no response",
+  "code": "FISERV_CALL_FAILED_NO_RESPONSE",
+  "description": "Call to Fiserv API failed, no response",
+  "args": [],
+  "status": "500 INTERNAL_SERVER_ERROR"
+}

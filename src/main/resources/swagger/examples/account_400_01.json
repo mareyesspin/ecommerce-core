@@ -1,0 +1,7 @@
+{
+  "message": "User does not have an account or pending account",
+  "code": "USER_WITHOUT_ACCOUNT_OR_PENDING_ACCOUNT",
+  "description": "User does not have an account or pending account",
+  "args": [],
+  "status": "400 BAD REQUEST"
+}

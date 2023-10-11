@@ -1,0 +1,12 @@
+{
+  "message": "Cannot add a Fiserv block code until the current one has been removed from the account.",
+  "code": "ACCOUNT_ALREADY_BLOCKED_WITH_FISERV_CODE",
+  "description": "Cannot add a Fiserv block code until the current one has been removed from the account.",
+  "args": [
+    {
+      "arg": "CURRENT_BLOCK_CODE",
+      "value": "STOLEN_CARD (L)"
+    }
+  ],
+  "status": "400 BAD REQUEST"
+}

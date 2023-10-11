@@ -1,0 +1,7 @@
+{
+  "message": "Phone is Required",
+  "code": "BAD_REQUEST",
+  "description": "Request is not valid",
+  "args": [],
+  "status": "400 BAD_REQUEST"
+}

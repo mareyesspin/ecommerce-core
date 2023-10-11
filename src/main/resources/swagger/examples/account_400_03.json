@@ -1,0 +1,7 @@
+{
+  "message": "The account already has the requested block code.",
+  "code": "ACCOUNT_ALREADY_BLOCKED",
+  "description": "The account already has the requested block code.",
+  "args": [],
+  "status": "400 BAD REQUEST"
+}

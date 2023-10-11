@@ -1,0 +1,16 @@
+{
+  "message": "QR Already Cancelled by User",
+  "code": "QR_USER_CANCELLED",
+  "description": "QR Already Cancelled by User",
+  "args": [
+    {
+      "arg": "UUID",
+      "value": "6283fee0-e4ec-9f2d-3eae-b6ca40640905"
+    },
+    {
+      "arg": "SENDER_NAME",
+      "value": "Karina M."
+    }
+  ],
+  "status": "412 PRECONDITION_FAILED"
+}

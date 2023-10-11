@@ -52,6 +52,7 @@ bootJar {
 
 jar {
     enabled = true
+    archiveClassifier.set("")
 }
 
 configurations.all {

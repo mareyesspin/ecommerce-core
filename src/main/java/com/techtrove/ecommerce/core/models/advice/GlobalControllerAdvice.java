@@ -39,7 +39,7 @@ import org.springframework.validation.ObjectError;
  */
 @RequiredArgsConstructor
 @Slf4j
-@RestControllerAdvice(basePackages = "com.spin.spei")
+@RestControllerAdvice(basePackages = "com.techtrove")
 public class GlobalControllerAdvice {
 
 

@@ -21,11 +21,8 @@ public class EntityMasterAudit {
     @Column(name = "creationdate")
     @CreationTimestamp
     private Date creationDate;
-    @Column(name = "creationuser")
-    private String creationUser;
     @Column(name = "modificationdate")
     @UpdateTimestamp
     private Date modificationDate;
-    @Column(name = "modificationuser")
-    private String modificationUser;
+
 }

@@ -23,7 +23,7 @@ public class GeneralConfig {
                     if (parent instanceof StandardHost) {
                         ((StandardHost) parent).
                                 setErrorReportValveClass(
-                                        "com.spin.spei.core.utils.JsonErrorReportValve");
+                                        "com.techtrove.ecommerce.core.utils.JsonErrorReportValve");
                     }
                 });
             }

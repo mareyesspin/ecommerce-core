@@ -25,4 +25,7 @@ public class EntityMasterAudit {
     @UpdateTimestamp
     private Date modificationDate;
 
+    @Column(name = "trace_id")
+    private String traceID;
+
 }
